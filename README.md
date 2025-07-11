@@ -103,7 +103,7 @@ Assignment-8/
 
 ---
 
-###✅ Assignment 9 #total 5 task
+### ✅ Assignment 9 #total 5 task
 -  Task 1: Trained an autoencoder on CIFAR-10 to generate 2D latent features.
 -  Task 2: Extracted high-dimensional features from a pretrained CNN and reduced them using PCA/t-SNE.
 -  Task 3: Built a denoising autoencoder to reconstruct clean images from noisy inputs.
