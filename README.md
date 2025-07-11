@@ -109,8 +109,8 @@ Assignment-8/
 -  Task 3: Built a denoising autoencoder to reconstruct clean images from noisy inputs.
 -  Task 4: Trained a CNN classifier on CIFAR-10 without using any data augmentation.
 -  Task 5: Fine-tuned a pretrained ResNet18 with multiple single-image augmentations to boost accuracy.
---
-✅ Solution: Compared the performance of all approaches using accuracy curves, feature visualizations, and sample predictions.
+
+-  ✅ Solution: Compared the performance of all approaches using accuracy curves, feature visualizations, and sample predictions.
 ## 🚧 Future Work
 ---
 
