@@ -103,12 +103,15 @@ Assignment-8/
 
 ---
 
+✅ Assignment 9 #total 5 task
+Task 1: Trained an autoencoder on CIFAR-10 to generate 2D latent features.
+Task 2: Extracted high-dimensional features from a pretrained CNN and reduced them using PCA/t-SNE.
+Task 3: Built a denoising autoencoder to reconstruct clean images from noisy inputs.
+Task 4: Trained a CNN classifier on CIFAR-10 without using any data augmentation.
+Task 5: Fine-tuned a pretrained ResNet18 with multiple single-image augmentations to boost accuracy.
+
+✅ Solution: Compared the performance of all approaches using accuracy curves, feature visualizations, and sample predictions.
 ## 🚧 Future Work
-
-- ✅ Add visualizations and plots per assignment.
-- ✅ Add performance tables (accuracy, loss, etc.).
-- ✅ Link Colab notebooks or Jupyter examples (if available).
-
 ---
 
 ## 🔗 GitHub Link
